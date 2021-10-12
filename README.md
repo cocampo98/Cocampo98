@@ -26,7 +26,7 @@ Scientific Research Areas:
 - Multispecies flow.
 - Thermo-Fluidic Analysis.
 
-- 🌱 I’m currently learning about Fluid-Structure Interaction (FSI), Large Eddy Simulation (LES) models, Non-Newtonian fluids modelling an simulation and C++ Programming.
-- :zap: I’d like to learn about Fracture and Fatigue Mechanics, Reactive fluxes and combustion, and OpenMPI.
+- 🌱 I’m currently learning about C++ Programming, Large Eddy Simulation (LES) models, Non-Newtonian fluids Modeling and Simulation.
+- :zap:I’d like to learn about Fluid-Structure Interaction (FSI), Reactive fluxes and Combustion, Fracture and Fatigue Mechanics, and OpenMPI.
 - 💞️ I’m looking to collaborate on Academic or Industrial environments in which we can research, develop and innovate in technological solutions that can generate a social and technological impact together.
 - 📫 Contact me at CarlosOcampo-ME@hotmail.com.
