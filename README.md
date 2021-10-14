@@ -2,7 +2,7 @@
 
 - 👀 I’m an engineer with basic hands-on experience in computational mechanics, design optimization, numerical analysis, computer programming, parallel programming, cloud, and high-performance computing, including understanding the underlying physics and mathematics, translating the theory and mathematical tools into schemes, numerical methods, and algorithms; in addition to verifying the code implementation through unit and performance tests, and using a popular version control system (Git).
 
-Scientific Research Areas:
+Professional Research Areas:
 
 - Computational Mechanics (with a special interest in Solid Mechanics, Fluid Mechanics, and Coupled Multi-Physics problems).
 - Design Optimization of Structural, Fluid Dynamics, and Coupled Multi-Physics problems.
