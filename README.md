@@ -6,7 +6,7 @@ Professional Research Areas:
 
 - Computational Mechanics (with a special interest in Solid Mechanics, Fluid Mechanics, and Coupled Multi-Physics problems).
 - Design Optimization of Structural, Fluid Dynamics, and Coupled Multi-Physics problems.
-- Topology, shape, and size Optimization.
+- Topology, Shape, and Size Optimization.
 - Numerical Methods for Analysis and Optimization for Coupled Multi-Physics problems.
 - Numerical Modeling and Design Optimization of Thermo-Fluidic Energy Systems.
 
