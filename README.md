@@ -21,12 +21,12 @@ Professional Research Areas:
 *Fluid Dynamic Analysis Performed:
 
 - Steady and Transient State simulations.
-- Turbulent flow: Only Reynolds Averaged Navier-Stokes Simulation (RANS) so far.
+- Turbulent flow: Reynolds Averaged Navier-Stokes Simulation (RANS), and only theoretical understanding in Large Eddy Simulations (LES) and Sub-Grid Scale models (SGS).
 - Multiphase flow.
 - Multispecies flow.
 - Thermo-Fluidic Analysis.
 
-- 🌱 I’m currently learning about C++ Programming, Large Eddy Simulation (LES) models, Non-Newtonian fluids Modeling and Simulation.
+- 🌱 I’m currently learning about C++ Programming.
 - :zap:I’d like to learn about Fluid-Structure Interaction (FSI), Reactive fluxes and Combustion, Fracture and Fatigue Mechanics, and OpenMPI.
 - 💞️ I’m looking to collaborate on Academic or Industrial environments in which we can research, develop and innovate in technological solutions that can generate a social and technological impact together.
 - 📫 Contact me at CarlosOcampo-ME@hotmail.com.
