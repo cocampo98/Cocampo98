@@ -26,6 +26,7 @@ Professional Research Areas:
 - Multispecies flow.
 - Thermo-Fluidic Analysis.
 
+
 - 🌱 I’m currently learning about Fluid-Structure Interaction (FSI).
 - :zap:I’d like to learn about Reactive fluxes and Combustion, Multiphysics (including EMAG), Advanced Fluid Mechanics, Turbulence, Fracture, Creep and Fatigue Mechanics, Additive Manufacturing, and OpenMPI.
 - 💞️ I’m looking to collaborate on Academic or Industrial environments in which we can research, develop and innovate in technological solutions that can generate a social and technological impact together.
